@@ -16,3 +16,12 @@ git commit -m "README updated"
 
 Änderung ins repo hochladen
 git push
+
+Neuen Branch mit Name name erstellen und in diesen branch wechseln
+git checkout -b name
+
+Branch löschen
+git branch -d name
+
+Branches anzeigen lassen
+git branch
