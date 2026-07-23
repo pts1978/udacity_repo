@@ -7,3 +7,5 @@
 5. Merge the pull request and delete the branch.
 6. Change back to your main branch locally, pull the results from the remote to your local, and delete the local `develop` branch.
 7. Check the branch is truly removed.
+
+This is the README.md in the develop branch, right?
