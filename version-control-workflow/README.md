@@ -9,3 +9,8 @@
 7. Check the branch is truly removed.
 
 This is the README.md in the develop branch, right?
+
+This commands were important for me:
+git remote -v # to check where I am 
+git remote set-url origin url # connect to a specifi repo
+git push -u origin develop # push the branch develop to the repo
